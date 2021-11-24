@@ -1,4 +1,4 @@
-USE [AgriBioReviewerPortal-2021-11-15-16-42]
+USE [agribioportalrgolb5d7zunvpw4]
 GO
 /****** Object:  Schema [dboTemp]    Script Date: 23/11/2021 14:46:57 ******/
 CREATE SCHEMA [dboTemp]
